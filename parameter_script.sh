@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FIRST_NAME= $1
+FIRST_NAME=$1
 LAST_NAME=$2
 SKILL=$3
 
